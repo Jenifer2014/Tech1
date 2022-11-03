@@ -1,0 +1,7 @@
+compareToIgnoreCase() Return Value
+returns 0 if the strings are equal, ignoring case considerations
+
+Selenium is open automation tool
+Mustconcept is important 
+postmana
+Api Testing
